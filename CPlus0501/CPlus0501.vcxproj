@@ -139,7 +139,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="연산자들_220507.cpp" />
+    <ClCompile Include="externalTest.cpp" />
+    <ClCompile Include="externTest2.cpp" />
+    <ClCompile Include="변수범위와더다양한변수형_220508.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="헤더.h" />
